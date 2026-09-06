@@ -8,12 +8,18 @@
 
 ## 🎓 Education
 
-<p>
-  <img src="./assets/inu-emblem.png" width="32" align="left" />
-  <strong>Incheon National University</strong><br>
-  B.S. in Information & Telecommunication Engineering<br>
-  <code>2022 — Present</code>
-</p>
+<table>
+  <tr>
+    <td width="42" valign="top">
+      <img src="./assets/inu-emblem.png" width="32">
+    </td>
+    <td>
+      <strong>Incheon National University</strong><br>
+      B.S. in Information & Telecommunication Engineering<br>
+      <code>2022 — Present</code>
+    </td>
+  </tr>
+</table>
 
 <br>
 

@@ -2,14 +2,24 @@
 
 # ursomin 😎
 
-<img src="./assets/inu-emblem.png" width="18"> **Incheon National University**  
-Information & Telecommunication Engineering · `2022 — Present`
+### 🔐 Web Security · Backend Development
+
+</div>
 
 <br>
 
-🔐 **Web Security** &nbsp;·&nbsp; ⚙️ **Backend Development**
+## 🎓 Education
 
-</div>
+<img src="./assets/inu-emblem.png" width="18"> <strong>Incheon National University</strong><br>
+B.S. in Information & Telecommunication Engineering<br>
+<code>2022 — Present</code>
+
+<br>
+
+## 💡 Interests
+
+🔐 **Web Security**  
+⚙️ **Backend Development**
 
 <br>
 

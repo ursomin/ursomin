@@ -8,6 +8,8 @@
 
 ## 🎓 Education
 
+<img src="./assets/inu-logo.png" width="180"/>
+
 **Incheon National University**  
 B.S. in Information & Telecommunication Engineering  
 `2022 — Present`

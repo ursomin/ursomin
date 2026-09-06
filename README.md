@@ -5,14 +5,20 @@
 </div>
 
 <br>
-
 ## 🎓 Education
 
-<img src="./assets/inu-logo.png" width="180"/>
-
-**Incheon National University**  
-B.S. in Information & Telecommunication Engineering  
-`2022 — Present`
+<table>
+  <tr>
+    <td width="190">
+      <img src="./assets/inu-logo.png" width="160"/>
+    </td>
+    <td>
+      <b>Incheon National University</b><br>
+      B.S. in Information & Telecommunication Engineering<br>
+      2022 — Present
+    </td>
+  </tr>
+</table>
 
 <br>
 

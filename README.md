@@ -2,8 +2,6 @@
 
 # ursomin 😎
 
-### 🔐 Web Security · Backend Development
-
 </div>
 
 <br>

@@ -5,6 +5,7 @@
 </div>
 
 <br>
+
 ## 🎓 Education
 
 <table>
